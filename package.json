@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "bootstrap": "^3.3.7",
+    "csv": "^1.1.1",
     "element-ui": "^1.4.1",
     "v-charts": "^1.6.10",
     "vue": "^2.1.0",

@@ -2,7 +2,6 @@
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 import Vue from 'vue'
 import App from './App'
-import 'bootstrap/dist/css/bootstrap.css';
 import 'font-awesome/less/font-awesome.less';
 import  vCharts from "v-charts"
 import  elementUI from "element-ui"

@@ -65,7 +65,6 @@
 <script>
   import analyseFieldType from "../utils/analyseFiledType"
   import draggable from 'vuedraggable'
-
   const message = ['vue.draggable', 'draggable', 'component', 'for', 'vue.js 2.0', 'based', 'on', 'Sortablejs']
 
   export default {
@@ -89,6 +88,7 @@
       }
     },
     methods: {
+
       handleSelectedFile (convertedData) {
         this.$prompt('请输入表名', '提示', {
           confirmButtonText: '确定',
